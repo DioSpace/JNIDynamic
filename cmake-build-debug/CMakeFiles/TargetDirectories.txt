@@ -1,0 +1,3 @@
+F:/Cpp/JNIDynamic/cmake-build-debug/CMakeFiles/firstdylib.dir
+F:/Cpp/JNIDynamic/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Cpp/JNIDynamic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

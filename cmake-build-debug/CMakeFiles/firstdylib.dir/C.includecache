@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Cpp/JNIDynamic/DynamicRegister.c
+jni.h
+F:/Cpp/JNIDynamic/jni.h
+
+F:/Cpp/JNIDynamic/jni.h
+stdio.h
+-
+stdarg.h
+-
+jni_md.h
+F:/Cpp/JNIDynamic/jni_md.h
+
+F:/Cpp/JNIDynamic/jni_md.h
+
